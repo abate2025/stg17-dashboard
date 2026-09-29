@@ -1,0 +1,1371 @@
+{
+ "meta": {
+  "publisher": {
+   "en": "National Institute of Statistics",
+   "fr": "Institut National de la Statistique"
+  },
+  "country": {
+   "en": "",
+   "fr": ""
+  },
+  "docTitle": {
+   "en": "Statistical Bulletin",
+   "fr": "Statistical Bulletin"
+  },
+  "period": {
+   "en": "",
+   "fr": ""
+  },
+  "sourceUrl": "https://ess.gov.et/wp-content/uploads/2026/09/1.inflation-report-august-efy-2018-final.pdf",
+  "licence": {
+   "en": "Source data: as published by the institute. Dashboard code: MIT.",
+   "fr": "Données source : telles que publiées par l'institut. Code : MIT."
+  },
+  "contact": {
+   "en": "Built at the STG17 technical workshop, lab 02.",
+   "fr": "Réalisé lors de l'atelier technique STG17, labo 02."
+  },
+  "defaultLang": "fr",
+  "synthetic": false,
+  "generated": "2026-09-29"
+ },
+ "areas": [
+  {
+   "id": "april",
+   "fr": "April",
+   "en": "April"
+  },
+  {
+   "id": "august-efy-2010-augustefy2011",
+   "fr": "August EFY 2010 - AugustEFY2011",
+   "en": "August EFY 2010 - August EFY 2011"
+  },
+  {
+   "id": "august-efy2009-august-efy2010",
+   "fr": "August EFY2009 - August EFY2010",
+   "en": "August EFY 2009 - August EFY 2010"
+  },
+  {
+   "id": "august-efy2011-august-efy2012",
+   "fr": "August EFY2011 - August EFY2012",
+   "en": "August EFY 2011 - August EFY 2012"
+  },
+  {
+   "id": "august-efy2012-august-efy2013",
+   "fr": "August EFY2012 - August EFY2013",
+   "en": "August EFY 2012 - August EFY 2013"
+  },
+  {
+   "id": "august-efy2013-august-efy2014",
+   "fr": "August EFY2013 - August EFY2014",
+   "en": "August EFY 2013 - August EFY 2014"
+  },
+  {
+   "id": "august-efy2014-august-efy2015",
+   "fr": "August EFY2014 - August EFY2015",
+   "en": "August EFY 2014 - August EFY 2015"
+  },
+  {
+   "id": "august-efy2015-august-efy2017",
+   "fr": "August EFY2015 - August EFY2017",
+   "en": "August EFY 2015 - August EFY 2017"
+  },
+  {
+   "id": "august-efy2016-august-efy2017",
+   "fr": "August EFY2016 - August EFY2017",
+   "en": "August EFY 2016 - August EFY 2017"
+  },
+  {
+   "id": "august-efy2017-august-efy2018",
+   "fr": "August EFY2017 - August EFY2018",
+   "en": "August EFY 2017 - August EFY 2018"
+  },
+  {
+   "id": "august-efy-2017",
+   "fr": "August-EFY 2017",
+   "en": "August EFY 2017"
+  },
+  {
+   "id": "august-efy-2018",
+   "fr": "August-EFY 2018",
+   "en": "August EFY 2018"
+  },
+  {
+   "id": "december",
+   "fr": "December",
+   "en": "December"
+  },
+  {
+   "id": "february",
+   "fr": "February",
+   "en": "February"
+  },
+  {
+   "id": "january",
+   "fr": "January",
+   "en": "January"
+  },
+  {
+   "id": "july",
+   "fr": "July",
+   "en": "July"
+  },
+  {
+   "id": "june",
+   "fr": "June",
+   "en": "June"
+  },
+  {
+   "id": "march",
+   "fr": "March",
+   "en": "March"
+  },
+  {
+   "id": "may",
+   "fr": "May",
+   "en": "May"
+  },
+  {
+   "id": "november",
+   "fr": "November",
+   "en": "November"
+  },
+  {
+   "id": "october",
+   "fr": "October",
+   "en": "October"
+  },
+  {
+   "id": "september",
+   "fr": "September",
+   "en": "September"
+  }
+ ],
+ "kpis": [
+  {
+   "labels": {
+    "en": "Food inflation – December",
+    "fr": "Inflation alimentaire – décembre"
+   },
+   "value": 9.8,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "delta": null,
+   "deltaLabel": {
+    "en": "vs None",
+    "fr": "vs None"
+   },
+   "good": "down",
+   "highlight": false
+  },
+  {
+   "labels": {
+    "en": "Non‑Food inflation – July",
+    "fr": "Inflation non‑alimentaire – juillet"
+   },
+   "value": 14.8,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "delta": null,
+   "deltaLabel": {
+    "en": "vs None",
+    "fr": "vs None"
+   },
+   "good": "down",
+   "highlight": false
+  },
+  {
+   "labels": {
+    "en": "General inflation – January",
+    "fr": "Inflation générale – janvier"
+   },
+   "value": 9.8,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "delta": null,
+   "deltaLabel": {
+    "en": "vs None",
+    "fr": "vs None"
+   },
+   "good": "down",
+   "highlight": false
+  }
+ ],
+ "series": {
+  "inflation_rate": {
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "periods": [
+    "Food",
+    "General",
+    "Non-Food"
+   ],
+   "values": {
+    "april": [
+     13.5,
+     11.7,
+     9.1
+    ],
+    "august-efy-2010-augustefy2011": [
+     13.1,
+     12.6,
+     11.9
+    ],
+    "august-efy2009-august-efy2010": [
+     13.4,
+     14.4,
+     15.9
+    ],
+    "august-efy2011-august-efy2012": [
+     23.3,
+     19.9,
+     15.9
+    ],
+    "august-efy2012-august-efy2013": [
+     23.2,
+     20.2,
+     16.4
+    ],
+    "august-efy2013-august-efy2014": [
+     40.3,
+     33.8,
+     25.2
+    ],
+    "august-efy2014-august-efy2015": [
+     31.7,
+     32.5,
+     33.9
+    ],
+    "august-efy2015-august-efy2017": [
+     28.1,
+     26.6,
+     24.3
+    ],
+    "august-efy2016-august-efy2017": [
+     16.2,
+     16.0,
+     15.8
+    ],
+    "august-efy2017-august-efy2018": [
+     12.0,
+     11.7,
+     11.3
+    ],
+    "august-efy-2017": [
+     12.7,
+     13.6,
+     15.1
+    ],
+    "august-efy-2018": [
+     14.9,
+     15.1,
+     15.4
+    ],
+    "december": [
+     9.8,
+     9.7,
+     9.6
+    ],
+    "february": [
+     10.8,
+     9.7,
+     8.1
+    ],
+    "january": [
+     10.4,
+     9.8,
+     9.0
+    ],
+    "july": [
+     15.7,
+     15.3,
+     14.8
+    ],
+    "june": [
+     15.1,
+     13.9,
+     12.2
+    ],
+    "march": [
+     11.0,
+     9.4,
+     7.0
+    ],
+    "may": [
+     15.0,
+     13.4,
+     11.1
+    ],
+    "november": [
+     10.6,
+     10.9,
+     11.4
+    ],
+    "october": [
+     10.2,
+     11.7,
+     14.2
+    ],
+    "september": [
+     12.1,
+     13.2,
+     14.8
+    ]
+   }
+  }
+ },
+ "views": [
+  {
+   "id": "inflation_rate",
+   "chart": "grouped",
+   "tab": {
+    "en": "Inflation rate",
+    "fr": "Taux d’inflation"
+   },
+   "title": {
+    "en": "General, Food and Non-Food Inflation Rate",
+    "fr": "Taux d’inflation général, alimentaire et non‑alimentaire"
+   },
+   "sub": {
+    "en": "Monthly series",
+    "fr": "Séries mensuelles"
+   },
+   "lede": {
+    "en": "General inflation peaked in August EFY 2014‑2015, while Food inflation remained relatively stable throughout the year.",
+    "fr": "L’inflation générale a culminé en août EFY 2014‑2015, tandis que l’inflation alimentaire est restée relativement stable tout au long de l’année."
+   },
+   "src": {
+    "en": "National Statistical Institute",
+    "fr": "Institut national de la statistique"
+   }
+  }
+ ],
+ "facts": [
+  {
+   "indicator": "inflation_rate",
+   "area": "august-efy2009-august-efy2010",
+   "period": "General",
+   "value": 14.4,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 2,
+   "snippet": "August EFY2009 - August EFY2010 14.4 13.4 15.9",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "inflation_rate",
+   "area": "august-efy2009-august-efy2010",
+   "period": "Food",
+   "value": 13.4,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 2,
+   "snippet": "August EFY2009 - August EFY2010 14.4 13.4 15.9",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "inflation_rate",
+   "area": "august-efy2009-august-efy2010",
+   "period": "Non-Food",
+   "value": 15.9,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 2,
+   "snippet": "August EFY2009 - August EFY2010 14.4 13.4 15.9",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "inflation_rate",
+   "area": "august-efy-2010-augustefy2011",
+   "period": "General",
+   "value": 12.6,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 2,
+   "snippet": "August EFY 2010 - AugustEFY2011 12.6 13.1 11.9",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "inflation_rate",
+   "area": "august-efy-2010-augustefy2011",
+   "period": "Food",
+   "value": 13.1,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 2,
+   "snippet": "August EFY 2010 - AugustEFY2011 12.6 13.1 11.9",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "inflation_rate",
+   "area": "august-efy-2010-augustefy2011",
+   "period": "Non-Food",
+   "value": 11.9,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 2,
+   "snippet": "August EFY 2010 - AugustEFY2011 12.6 13.1 11.9",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "inflation_rate",
+   "area": "august-efy2011-august-efy2012",
+   "period": "General",
+   "value": 19.9,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 2,
+   "snippet": "August EFY2011 - August EFY2012 19.9 23.3 15.9",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "inflation_rate",
+   "area": "august-efy2011-august-efy2012",
+   "period": "Food",
+   "value": 23.3,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 2,
+   "snippet": "August EFY2011 - August EFY2012 19.9 23.3 15.9",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "inflation_rate",
+   "area": "august-efy2011-august-efy2012",
+   "period": "Non-Food",
+   "value": 15.9,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 2,
+   "snippet": "August EFY2011 - August EFY2012 19.9 23.3 15.9",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "inflation_rate",
+   "area": "august-efy2012-august-efy2013",
+   "period": "General",
+   "value": 20.2,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 2,
+   "snippet": "August EFY2012 - August EFY2013 20.2 23.2 16.4",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "inflation_rate",
+   "area": "august-efy2012-august-efy2013",
+   "period": "Food",
+   "value": 23.2,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 2,
+   "snippet": "August EFY2012 - August EFY2013 20.2 23.2 16.4",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "inflation_rate",
+   "area": "august-efy2012-august-efy2013",
+   "period": "Non-Food",
+   "value": 16.4,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 2,
+   "snippet": "August EFY2012 - August EFY2013 20.2 23.2 16.4",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "inflation_rate",
+   "area": "august-efy2013-august-efy2014",
+   "period": "General",
+   "value": 33.8,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 2,
+   "snippet": "August EFY2013 - August EFY2014 33.8 40.3 25.2",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "inflation_rate",
+   "area": "august-efy2013-august-efy2014",
+   "period": "Food",
+   "value": 40.3,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 2,
+   "snippet": "August EFY2013 - August EFY2014 33.8 40.3 25.2",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "inflation_rate",
+   "area": "august-efy2013-august-efy2014",
+   "period": "Non-Food",
+   "value": 25.2,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 2,
+   "snippet": "August EFY2013 - August EFY2014 33.8 40.3 25.2",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "inflation_rate",
+   "area": "august-efy2014-august-efy2015",
+   "period": "General",
+   "value": 32.5,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 2,
+   "snippet": "August EFY2014 - August EFY2015 32.5 31.7 33.9",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "inflation_rate",
+   "area": "august-efy2014-august-efy2015",
+   "period": "Food",
+   "value": 31.7,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 2,
+   "snippet": "August EFY2014 - August EFY2015 32.5 31.7 33.9",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "inflation_rate",
+   "area": "august-efy2014-august-efy2015",
+   "period": "Non-Food",
+   "value": 33.9,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 2,
+   "snippet": "August EFY2014 - August EFY2015 32.5 31.7 33.9",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "inflation_rate",
+   "area": "august-efy2015-august-efy2017",
+   "period": "General",
+   "value": 26.6,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 2,
+   "snippet": "August EFY2015 - August EFY2017 26.6 28.1 24.3",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "inflation_rate",
+   "area": "august-efy2015-august-efy2017",
+   "period": "Food",
+   "value": 28.1,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 2,
+   "snippet": "August EFY2015 - August EFY2017 26.6 28.1 24.3",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "inflation_rate",
+   "area": "august-efy2015-august-efy2017",
+   "period": "Non-Food",
+   "value": 24.3,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 2,
+   "snippet": "August EFY2015 - August EFY2017 26.6 28.1 24.3",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "inflation_rate",
+   "area": "august-efy2016-august-efy2017",
+   "period": "General",
+   "value": 16.0,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 2,
+   "snippet": "August EFY2016 - August EFY2017 16.0 16.2 15.8",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "inflation_rate",
+   "area": "august-efy2016-august-efy2017",
+   "period": "Food",
+   "value": 16.2,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 2,
+   "snippet": "August EFY2016 - August EFY2017 16.0 16.2 15.8",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "inflation_rate",
+   "area": "august-efy2016-august-efy2017",
+   "period": "Non-Food",
+   "value": 15.8,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 2,
+   "snippet": "August EFY2016 - August EFY2017 16.0 16.2 15.8",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "inflation_rate",
+   "area": "august-efy2017-august-efy2018",
+   "period": "General",
+   "value": 11.7,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 2,
+   "snippet": "August EFY2017 - August EFY2018 11.7 12.0 11.3",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "inflation_rate",
+   "area": "august-efy2017-august-efy2018",
+   "period": "Food",
+   "value": 12.0,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 2,
+   "snippet": "August EFY2017 - August EFY2018 11.7 12.0 11.3",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "inflation_rate",
+   "area": "august-efy2017-august-efy2018",
+   "period": "Non-Food",
+   "value": 11.3,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 2,
+   "snippet": "August EFY2017 - August EFY2018 11.7 12.0 11.3",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "inflation_rate",
+   "area": "august-efy-2017",
+   "period": "General",
+   "value": 13.6,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 2,
+   "snippet": "August-EFY 2017 13.6 12.7 15.1",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "inflation_rate",
+   "area": "august-efy-2017",
+   "period": "Food",
+   "value": 12.7,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 2,
+   "snippet": "August-EFY 2017 13.6 12.7 15.1",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "inflation_rate",
+   "area": "august-efy-2017",
+   "period": "Non-Food",
+   "value": 15.1,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 2,
+   "snippet": "August-EFY 2017 13.6 12.7 15.1",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "inflation_rate",
+   "area": "september",
+   "period": "General",
+   "value": 13.2,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 2,
+   "snippet": "September 13.2 12.1 14.8",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "inflation_rate",
+   "area": "september",
+   "period": "Food",
+   "value": 12.1,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 2,
+   "snippet": "September 13.2 12.1 14.8",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "inflation_rate",
+   "area": "september",
+   "period": "Non-Food",
+   "value": 14.8,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 2,
+   "snippet": "September 13.2 12.1 14.8",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "inflation_rate",
+   "area": "october",
+   "period": "General",
+   "value": 11.7,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 2,
+   "snippet": "October 11.7 10.2 14.2",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "inflation_rate",
+   "area": "october",
+   "period": "Food",
+   "value": 10.2,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 2,
+   "snippet": "October 11.7 10.2 14.2",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "inflation_rate",
+   "area": "october",
+   "period": "Non-Food",
+   "value": 14.2,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 2,
+   "snippet": "October 11.7 10.2 14.2",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "inflation_rate",
+   "area": "november",
+   "period": "General",
+   "value": 10.9,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 2,
+   "snippet": "November 10.9 10.6 11.4",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "inflation_rate",
+   "area": "november",
+   "period": "Food",
+   "value": 10.6,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 2,
+   "snippet": "November 10.9 10.6 11.4",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "inflation_rate",
+   "area": "november",
+   "period": "Non-Food",
+   "value": 11.4,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 2,
+   "snippet": "November 10.9 10.6 11.4",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "inflation_rate",
+   "area": "december",
+   "period": "General",
+   "value": 9.7,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 2,
+   "snippet": "December 9.7 9.8 9.6",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "inflation_rate",
+   "area": "december",
+   "period": "Food",
+   "value": 9.8,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 2,
+   "snippet": "December 9.7 9.8 9.6",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "inflation_rate",
+   "area": "december",
+   "period": "Non-Food",
+   "value": 9.6,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 2,
+   "snippet": "December 9.7 9.8 9.6",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "inflation_rate",
+   "area": "january",
+   "period": "General",
+   "value": 9.8,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 2,
+   "snippet": "January 9.8 10.4 9.0",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "inflation_rate",
+   "area": "january",
+   "period": "Food",
+   "value": 10.4,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 2,
+   "snippet": "January 9.8 10.4 9.0",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "inflation_rate",
+   "area": "january",
+   "period": "Non-Food",
+   "value": 9.0,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 2,
+   "snippet": "January 9.8 10.4 9.0",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "inflation_rate",
+   "area": "february",
+   "period": "General",
+   "value": 9.7,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 2,
+   "snippet": "February 9.7 10.8 8.1",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "inflation_rate",
+   "area": "february",
+   "period": "Food",
+   "value": 10.8,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 2,
+   "snippet": "February 9.7 10.8 8.1",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "inflation_rate",
+   "area": "february",
+   "period": "Non-Food",
+   "value": 8.1,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 2,
+   "snippet": "February 9.7 10.8 8.1",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "inflation_rate",
+   "area": "march",
+   "period": "General",
+   "value": 9.4,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 2,
+   "snippet": "March 9.4 11.0 7.0",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "inflation_rate",
+   "area": "march",
+   "period": "Food",
+   "value": 11.0,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 2,
+   "snippet": "March 9.4 11.0 7.0",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "inflation_rate",
+   "area": "march",
+   "period": "Non-Food",
+   "value": 7.0,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 2,
+   "snippet": "March 9.4 11.0 7.0",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "inflation_rate",
+   "area": "april",
+   "period": "General",
+   "value": 11.7,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 2,
+   "snippet": "April 11.7 13.5 9.1",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "inflation_rate",
+   "area": "april",
+   "period": "Food",
+   "value": 13.5,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 2,
+   "snippet": "April 11.7 13.5 9.1",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "inflation_rate",
+   "area": "april",
+   "period": "Non-Food",
+   "value": 9.1,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 2,
+   "snippet": "April 11.7 13.5 9.1",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "inflation_rate",
+   "area": "may",
+   "period": "General",
+   "value": 13.4,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 2,
+   "snippet": "May 13.4 15.0 11.1",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "inflation_rate",
+   "area": "may",
+   "period": "Food",
+   "value": 15.0,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 2,
+   "snippet": "May 13.4 15.0 11.1",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "inflation_rate",
+   "area": "may",
+   "period": "Non-Food",
+   "value": 11.1,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 2,
+   "snippet": "May 13.4 15.0 11.1",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "inflation_rate",
+   "area": "june",
+   "period": "General",
+   "value": 13.9,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 2,
+   "snippet": "June 13.9 15.1 12.2",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "inflation_rate",
+   "area": "june",
+   "period": "Food",
+   "value": 15.1,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 2,
+   "snippet": "June 13.9 15.1 12.2",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "inflation_rate",
+   "area": "june",
+   "period": "Non-Food",
+   "value": 12.2,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 2,
+   "snippet": "June 13.9 15.1 12.2",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "inflation_rate",
+   "area": "july",
+   "period": "General",
+   "value": 15.3,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 2,
+   "snippet": "July 15.3 15.7 14.8",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "inflation_rate",
+   "area": "july",
+   "period": "Food",
+   "value": 15.7,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 2,
+   "snippet": "July 15.3 15.7 14.8",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "inflation_rate",
+   "area": "july",
+   "period": "Non-Food",
+   "value": 14.8,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 2,
+   "snippet": "July 15.3 15.7 14.8",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "inflation_rate",
+   "area": "august-efy-2018",
+   "period": "General",
+   "value": 15.1,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 2,
+   "snippet": "August-EFY 2018 15.1 14.9 15.4",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "inflation_rate",
+   "area": "august-efy-2018",
+   "period": "Food",
+   "value": 14.9,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 2,
+   "snippet": "August-EFY 2018 15.1 14.9 15.4",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "inflation_rate",
+   "area": "august-efy-2018",
+   "period": "Non-Food",
+   "value": 15.4,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 2,
+   "snippet": "August-EFY 2018 15.1 14.9 15.4",
+   "status": "ok",
+   "note": null
+  }
+ ],
+ "indicators": {
+  "inflation_rate": {
+   "fr": "General, Food and Non-Food Inflation Rate",
+   "en": "General, Food and Non-Food Inflation Rate"
+  }
+ },
+ "i18n": {
+  "en": {
+   "sourceDoc": "Source publication",
+   "tabOverview": "Overview",
+   "tabData": "Data & sources",
+   "filterLabel": "Areas",
+   "reset": "Reset",
+   "searchPh": "Search an indicator, an area, a year…",
+   "btnCsv": "Download CSV",
+   "btnJson": "Download JSON",
+   "thIndicator": "Indicator",
+   "thArea": "Area",
+   "thPeriod": "Period",
+   "thValue": "Value",
+   "thUnit": "Unit",
+   "thPage": "Page",
+   "thStatus": "Check",
+   "noRows": "No figure matches this search.",
+   "statusOk": "Verified",
+   "statusWarn": "To review",
+   "provLabel": "Read from the source document, page",
+   "calloutTitle": "Read this before reusing the figures",
+   "calloutBody": "These figures were extracted from a PDF by a language model and then checked automatically against the source text. Rows marked “To review” failed at least one check and have not been confirmed by a statistician. Always cite the original publication, not this dashboard.",
+   "dataTitle": "Data & sources",
+   "dataLede": "Every figure on this dashboard, with the page it came from and the line of text it was read from. Search, sort, open a row to see the source, export.",
+   "limTitle": "Limitations",
+   "methTitle": "How this dashboard was built",
+   "methBody": "Text was extracted from the PDF page by page. A rules-based reader and a language model each transcribed the tables independently, and every cell was checked for page provenance, quoted evidence, unit and range, reconciliation with published totals, and agreement between the two readings. The notebook, the prompts and the verification report are in the repository.",
+   "fSource": "Source",
+   "fLicence": "Licence",
+   "fBuilt": "Built with",
+   "fContact": "Contact",
+   "fBuiltBody": "Python, an LLM extraction pipeline, Chart.js. No tracking, no cookies, no server — a single HTML file.",
+   "stamp": "Dashboard generated on {date}. Figures are the responsibility of the source institution; the presentation is the responsibility of the team that built this page.",
+   "syntheticWarn": "Demonstration data — fictional country, for training purposes only.",
+   "kicker": "Statistical Bulletin",
+   "title": "Inflation rates",
+   "subtitle": "General, Food and Non-Food inflation rates by month.",
+   "ovTitle": "Key figures",
+   "ovLede": "Selected headline values are shown below.",
+   "limBody": "",
+   "publisher": "National Institute of Statistics",
+   "period": ""
+  },
+  "fr": {
+   "sourceDoc": "Publication source",
+   "tabOverview": "Vue d'ensemble",
+   "tabData": "Données et sources",
+   "filterLabel": "Zones",
+   "reset": "Réinitialiser",
+   "searchPh": "Chercher un indicateur, une zone, une année…",
+   "btnCsv": "Télécharger le CSV",
+   "btnJson": "Télécharger le JSON",
+   "thIndicator": "Indicateur",
+   "thArea": "Zone",
+   "thPeriod": "Période",
+   "thValue": "Valeur",
+   "thUnit": "Unité",
+   "thPage": "Page",
+   "thStatus": "Contrôle",
+   "noRows": "Aucun chiffre ne correspond à cette recherche.",
+   "statusOk": "Vérifié",
+   "statusWarn": "À revoir",
+   "provLabel": "Lu dans le document source, page",
+   "calloutTitle": "À lire avant de réutiliser les chiffres",
+   "calloutBody": "Ces chiffres ont été extraits d'un PDF par un modèle de langage, puis contrôlés automatiquement contre le texte source. Les lignes marquées « À revoir » ont échoué à au moins un contrôle et n'ont pas été confirmées par un statisticien. Citez toujours la publication d'origine, pas ce tableau de bord.",
+   "dataTitle": "Données et sources",
+   "dataLede": "Tous les chiffres de ce tableau de bord, avec la page dont ils proviennent et la ligne de texte dont ils ont été lus. Cherchez, triez, ouvrez une ligne pour voir la source, exportez.",
+   "limTitle": "Limites",
+   "methTitle": "Comment ce tableau de bord a été construit",
+   "methBody": "Le texte a été extrait du PDF page par page. Un lecteur à base de règles et un modèle de langage ont transcrit les tableaux indépendamment, et chaque cellule a été contrôlée : provenance de page, citation vérifiée, unité et plage, réconciliation avec les totaux publiés, et accord entre les deux lectures. Le notebook, les prompts et le rapport de vérification sont dans le dépôt.",
+   "fSource": "Source",
+   "fLicence": "Licence",
+   "fBuilt": "Réalisé avec",
+   "fContact": "Contact",
+   "fBuiltBody": "Python, une chaîne d'extraction par LLM, Chart.js. Aucun traceur, aucun cookie, aucun serveur — un seul fichier HTML.",
+   "stamp": "Tableau de bord généré le {date}. Les chiffres relèvent de la responsabilité de l'institution source ; la présentation relève de la responsabilité de l'équipe qui a construit cette page.",
+   "syntheticWarn": "Données de démonstration — pays fictif, à usage pédagogique uniquement.",
+   "kicker": "Bulletin statistique",
+   "title": "Taux d’inflation",
+   "subtitle": "Taux d’inflation général, alimentaire et non‑alimentaire par mois.",
+   "ovTitle": "Chiffres clés",
+   "ovLede": "Les valeurs principales sélectionnées sont présentées ci‑dessous.",
+   "limBody": "",
+   "publisher": "Institut National de la Statistique",
+   "period": ""
+  }
+ }
+}
