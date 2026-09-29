@@ -1,3 +1,9 @@
+**Live dashboard: <https://abate2025.github.io/stg17-dashboard/>**
+
+Rebuilt by running the notebook in this repository against the source publication. Last published 2026-09-29.
+
+---
+
 # Inflation rates
 
 Bilingual (EN/FR) dashboard built from **Statistical Bulletin**, pages 2, 4, 6.
